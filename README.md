@@ -46,6 +46,14 @@ RGTN is trained on Raindrop datasets and Snow100K
 [Snow100K](https://sites.google.com/view/yunfuliu/desnownet)
 
 ### Acknowledgements:
+@inproceedings{cheng2023region,
+  title={Region Guided Transformer for Single Image Raindrop Removal},
+  author={Cheng, Pengfei and Huang, Peiliang and Xu, Chenchu and Han, Longfei},
+  booktitle={2023 7th Asian Conference on Artificial Intelligence Technology (ACAIT)},
+  pages={964--972},
+  year={2023},
+  organization={IEEE}
+}
 
 
 ### Citation:
