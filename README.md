@@ -1,6 +1,6 @@
 # RGTN
 
-Code for the paper [Region Guided Transformer for Single Image Raindrop Removal]
+Code for the paper [Region Guided Transformer for Single Image Raindrop Removal](https://ieeexplore.ieee.org/abstract/document/10528647)
 
 ### About this repo:
 
@@ -46,6 +46,11 @@ RGTN is trained on Raindrop datasets and Snow100K
 [Snow100K](https://sites.google.com/view/yunfuliu/desnownet)
 
 ### Acknowledgements:
+
+
+### Citation:
+
+```
 @inproceedings{cheng2023region,
   title={Region Guided Transformer for Single Image Raindrop Removal},
   author={Cheng, Pengfei and Huang, Peiliang and Xu, Chenchu and Han, Longfei},
@@ -54,10 +59,4 @@ RGTN is trained on Raindrop datasets and Snow100K
   year={2023},
   organization={IEEE}
 }
-
-
-### Citation:
-
-```
-
 ```
